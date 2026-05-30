@@ -1,0 +1,101 @@
+{
+  "due_activity": [
+    {
+      "module": {
+        "id": "3a73ebf9-2581-4026-a87d-dc72a0055dc8",
+        "title": "Testing Module",
+        "type": "form_type",
+        "gallery_support": true,
+        "is_media_mandatory": true
+      },
+      "schedule_date": "2026-05-24",
+      "start_window_date": "2026-05-23",
+      "end_window_date": "2026-05-25"
+    }
+  ],
+  "upcoming_activity": [
+    {
+      "module": {
+        "id": "3a73ebf9-2581-4026-a87d-dc72a0055dc8",
+        "title": "Testing Module",
+        "type": "form_type",
+        "gallery_support": true,
+        "is_media_mandatory": true
+      },
+      "start_window_date": "2026-05-28"
+    },
+    {
+      "module": {
+        "id": "3a73ebf987d-dc72a0055dc8",
+        "title": "Testing Module-2",
+        "type": "form_type",
+        "gallery_support": true,
+        "is_media_mandatory": true
+      },
+      "start_window_date": "2026-05-31"
+    }
+  ],
+  "other_activity": [
+    {
+      "module": {
+        "id": "3a73ebf9-2581-4026-a87d-dc72a0055dc8",
+        "title": "Testing Module",
+        "type": "form_type",
+        "gallery_support": true,
+        "is_media_mandatory": true
+      }
+    },
+    {
+      "module": {
+        "id": "3bf9-2581-4026-a87d-dc72a0055dc8",
+        "title": "Testing Module -2",
+        "type": "form_type",
+        "gallery_support": true,
+        "is_media_mandatory": true
+      }
+    }
+  ],
+  "completed_activity": [
+    {
+      "item_id": "hfhfg",
+      "module": {
+        "id": "3a73ebf9-2581-4026-a87d-dc72a0055dc8",
+        "title": "Testing Module",
+        "type": "form_type",
+        "gallery_support": true,
+        "is_media_mandatory": true
+      },
+      "entry_date": "2026-05-10",
+      "completion_date": "2026-05-15",
+      "can_edit_delete": false,
+      "data": [
+        {
+          "key": "expected_harvest_start_date",
+          "value": "2026-05-26"
+        }
+      ],
+      "sections": [
+        {
+          "id": "e2ae67ee-459c-4e90-b1b2-f8590a6139f3",
+          "title": "Section 1",
+          "order": 0,
+          "section_multiple": true,
+          "section_index": 0,
+          "fields": [
+            {
+              "id": "edbbf7ef-2abf-422c-9c3e-9d98a4fb5ded",
+              "key": "expected_harvest_start_date",
+              "label": "expected_harvest_start_date",
+              "field_type": "date",
+              "required": false,
+              "order": 0,
+              "response": {
+                "date": "2026-05-26"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
