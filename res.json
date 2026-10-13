@@ -1,3 +1,47 @@
-{
-  "is_profile_complete": false
-}
+[
+  {
+    "season_start_date": "2026-10-02",
+    "season_end_date": "2026-10-31",
+    "activities": [
+      {
+        "module": {
+          "task_id": "d0c82f7b-689a-42ec-a86d-fa873705e974",
+          "title": "Female Sowing Form",
+          "type": "form_type",
+          "form_type": "module",
+          "gallery_support": true,
+          "is_media_mandatory": true,
+          "id": "75072486-2887-4a70-b88d-040ced8ad4d5"
+        },
+        "start_window_date": -10,
+        "end_window_date": 5
+      },
+      {
+        "module": {
+          "task_id": "16d89482-7abb-4e07-993a-c737db6f06ce",
+          "title": "Male Sowing Form",
+          "type": "form_type",
+          "form_type": "module",
+          "gallery_support": true,
+          "is_media_mandatory": true,
+          "id": "a34aaddb-32d9-4697-88f5-dd7b04c22a01"
+        },
+        "start_window_date": 10,
+        "end_window_date": 15
+      },
+      {
+        "module": {
+          "task_id": "d6a6abaf-8bae-4136-83c7-8fd215e459f9",
+          "title": "Germination Count Form",
+          "type": "form_type",
+          "form_type": "module",
+          "gallery_support": false,
+          "is_media_mandatory": false,
+          "id": "4d09af82-2f4b-4260-b369-bbffa69cb127"
+        },
+        "start_window_date": 20,
+        "end_window_date": 25
+      }
+    ]
+  }
+]
