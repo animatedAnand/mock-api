@@ -1,0 +1,16 @@
+{
+    "field_id": "e94cbab8-b5fe-476a-80e7-626656eee790",
+    "options": [{
+        "id": "28ac8628-1b96-46a9-9541-86d843aec85b",
+        "value": "E-W"
+    }, {
+        "id": "0563714c-7d43-47d6-b591-72583c543655",
+        "value": "N-S"
+    }, {
+        "id": "30a01f5a-f376-4558-b979-41e9779a95a2",
+        "value": "NE-SW"
+    }, {
+        "id": "f8326eb9-04ee-457a-bba1-c2e6d58d993c",
+        "value": "NW-SE"
+    }]
+}
