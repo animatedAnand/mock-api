@@ -1,167 +1,61 @@
-{
-	"id": "98435f93-3a21-48b0-b5d9-703ae61072e2",
-	"full_name": "test vins",
-	"phone_number": "+917854964854",
-	"image": "https://farmstock-assets.s3.amazonaws.com/farming_activity/farmerbasicinfo/QmHVkZ5JQbmtHDmz0NtJVg.jpg",
-	"registration_date": "2026-09-02",
-	"address": {
-		"state": {
-			"id": "52b667cb-16a3-41c7-8654-94ae81740e28",
-			"name": "तेलंगाना",
-			"slug": "तेलंगाना",
-			"eng_name": "Telangana"
-		},
-		"district": {
-			"id": "84dbe09b-404e-4d92-8289-c86add0a356b",
-			"name": "रंगा रेडी",
-			"slug": "तेलंगाना-रंगा-रेडी",
-			"eng_name": "Ranga Reddy",
-			"state_id": "52b667cb-16a3-41c7-8654-94ae81740e28",
-			"state_eng_name": "Telangana"
-		},
-		"block": {
-			"id": "226a94a5-4dfa-47c4-9860-4c30ee4296aa",
-			"name": "Amangal",
-			"slug": "महबूबनगर-Amangal",
-			"eng_name": "Amangal"
-		},
-		"village": null,
-		"village_obj": {
-			"id": "f8c0e7b5-8d89-483a-94df-19d84a9905fa",
-			"name": "Cherikonda Pattikalwakurthy",
-			"slug": "Amangal-Cherikonda-Pattikalwakurthy",
-			"eng_name": "Cherikonda Pattikalwakurthy"
-		}
-	},
-	"requested_new_phone_number": null,
-	"is_farmer": true,
-	"is_profile_editable": true,
-	"physical_interaction": 1,
-	"connected_calls": 0,
-	"application_installed": false,
-	"crops_query": [],
-	"last_field_visit_date": "02/09/2026",
-	"crops_market_status": [],
-	"request_count": 0,
-	"field_activity_config": {
-		"show_product_interest": true,
-		"show_sampling": true,
-		"show_purchase": true
-	},
-	"membership_info": [
-		{
-			"id": "132156f8-0336-49fa-839c-a08de7aceb18",
-			"institution_type": "Test",
-			"type_col": "#2E7D32",
-			"institute": {
-				"id": "84dc531e-0166-41bb-b269-a175a88f7cc4",
-				"name": "Harpreet Singh"
-			},
-			"joining_date": "03/09/2026",
-			"questions": []
-		}
-	],
-	"enabled_profile_widget": [
-		"plot",
-		"field-activity",
-		"all-sheds"
-	],
-	"form_data": [
-		{
-			"key": "Registration Code",
-			"value": "hdbr"
-		},
-		{
-			"key": "Farmer Address",
-			"value": "Cherikonda Pattikalwakurthy, Amangal, Ranga Reddy, Telangana"
-		},
-		{
-			"key": "Cultivation Area (in acres)",
-			"value": "25.0"
-		},
-		{
-			"key": "% area under irrigation",
-			"value": null
-		},
-		{
-			"key": "Kharif Crops",
-			"value": ""
-		},
-		{
-			"key": "Rabi Crops",
-			"value": ""
-		},
-		{
-			"key": "Zaid Crops",
-			"value": ""
-		},
-		{
-			"key": "Crops",
-			"value": "Ajola"
-		},
-		{
-			"key": "Date of Birth",
-			"value": null
-		},
-		{
-			"key": "Gender",
-			"value": null
-		},
-		{
-			"key": "Father's / Husband's Name",
-			"value": null
-		},
-		{
-			"key": "Education Level",
-			"value": null
-		},
-		{
-			"key": "Income source of farmer other than agriculture",
-			"value": null
-		},
-		{
-			"key": "Tractor",
-			"value": null
-		},
-		{
-			"key": "Distillation Unit",
-			"value": null
-		},
-		{
-			"key": "Smartphone",
-			"value": null
-		},
-		{
-			"key": "Tubewell",
-			"value": null
-		},
-		{
-			"key": "Source of Energy for Tubewell",
-			"value": null
-		},
-		{
-			"key": "Registered with Client",
-			"value": null
-		},
-		{
-			"key": "Aadhar Number",
-			"value": null
-		},
-		{
-			"key": "Any Other Info",
-			"value": null
-		},
-		{
-			"key": "Section 2 Question",
-			"value": null
-		},
-		{
-			"key": "WhatsApp_No.",
-			"value": null
-		},
-		{
-			"key": "Social Media Link",
-			"value": "https://youtube.com/shorts/H_D2wWQdyQw?si=JvxSk1HQdu5Es_Wn"
-		}
-	]
-}
+[
+  {
+    "client_id": "172a1c61-3b44-490a-b6f9-4b7760e09f60",
+    "client_name": "Swiggy",
+    "location_permission_mandatory": false,
+    "community_ids": [
+      "e770ad9b-b731-45f0-ad37-c38004224745"
+    ]
+  },
+  {
+    "client_id": "a7500a16-ea1e-42bf-97d6-fa09bc791bdf",
+    "client_name": "Demo Account",
+    "location_permission_mandatory": false,
+    "community_ids": [
+      "656aa185-bcfb-4fd0-9643-7a40d96442ea"
+    ]
+  },
+  {
+    "client_id": "8abb243f-eb94-4637-8838-b263351944de",
+    "client_name": "Testclient",
+    "location_permission_mandatory": false,
+    "community_ids": [
+      "d50031a6-06a8-456b-9ed2-05f728893417"
+    ]
+  },
+  {
+    "client_id": "b407e8a6-e03b-4ebd-a632-7c91992ddce6",
+    "client_name": "Rallis Crop Care",
+    "location_permission_mandatory": false,
+    "community_ids": [
+      "ab03fa07-9899-4faa-aaf2-8e3e172c0206",
+      "ce0fd5a6-a728-4714-ace9-0836989703b1"
+    ]
+  },
+  {
+    "client_id": "81b94c47-ab79-4025-adc4-d11eafd41e8b",
+    "client_name": "ABlnBev",
+    "location_permission_mandatory": false,
+    "community_ids": [
+      "fa83f569-02cf-4c68-aaa7-7b23cfef280e"
+    ]
+  },
+  {
+    "client_id": "2ec33215-98f8-44cc-a1c3-8309a826c917",
+    "client_name": "Messina Beej",
+    "is_offline_support": true,
+    "location_permission_mandatory": false,
+    "community_ids": [
+      "741f66b3-b8fe-4ff8-9c23-7991321a5194"
+    ]
+  },
+  {
+    "client_id": "cdc9b54d-d950-4ce9-8e13-5fd592a74f04",
+    "client_name": "TestClient1",
+    "is_offline_support": true,
+    "location_permission_mandatory": true,
+    "community_ids": [
+      "3b842eec-bdab-49c6-a77f-c8c07460641b"
+    ]
+  }
+]
