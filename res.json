@@ -1,47 +1,167 @@
-[
-  {
-    "season_start_date": "2026-10-02",
-    "season_end_date": "2026-10-31",
-    "activities": [
-      {
-        "module": {
-          "task_id": "d0c82f7b-689a-42ec-a86d-fa873705e974",
-          "title": "Female Sowing Form",
-          "type": "form_type",
-          "form_type": "module",
-          "gallery_support": true,
-          "is_media_mandatory": true,
-          "id": "75072486-2887-4a70-b88d-040ced8ad4d5"
-        },
-        "start_window_date": -10,
-        "end_window_date": 5
-      },
-      {
-        "module": {
-          "task_id": "16d89482-7abb-4e07-993a-c737db6f06ce",
-          "title": "Male Sowing Form",
-          "type": "form_type",
-          "form_type": "module",
-          "gallery_support": true,
-          "is_media_mandatory": true,
-          "id": "a34aaddb-32d9-4697-88f5-dd7b04c22a01"
-        },
-        "start_window_date": 10,
-        "end_window_date": 15
-      },
-      {
-        "module": {
-          "task_id": "d6a6abaf-8bae-4136-83c7-8fd215e459f9",
-          "title": "Germination Count Form",
-          "type": "form_type",
-          "form_type": "module",
-          "gallery_support": false,
-          "is_media_mandatory": false,
-          "id": "4d09af82-2f4b-4260-b369-bbffa69cb127"
-        },
-        "start_window_date": 20,
-        "end_window_date": 25
-      }
-    ]
-  }
-]
+{
+	"id": "98435f93-3a21-48b0-b5d9-703ae61072e2",
+	"full_name": "test vins",
+	"phone_number": "+917854964854",
+	"image": "https://farmstock-assets.s3.amazonaws.com/farming_activity/farmerbasicinfo/QmHVkZ5JQbmtHDmz0NtJVg.jpg",
+	"registration_date": "2026-09-02",
+	"address": {
+		"state": {
+			"id": "52b667cb-16a3-41c7-8654-94ae81740e28",
+			"name": "तेलंगाना",
+			"slug": "तेलंगाना",
+			"eng_name": "Telangana"
+		},
+		"district": {
+			"id": "84dbe09b-404e-4d92-8289-c86add0a356b",
+			"name": "रंगा रेडी",
+			"slug": "तेलंगाना-रंगा-रेडी",
+			"eng_name": "Ranga Reddy",
+			"state_id": "52b667cb-16a3-41c7-8654-94ae81740e28",
+			"state_eng_name": "Telangana"
+		},
+		"block": {
+			"id": "226a94a5-4dfa-47c4-9860-4c30ee4296aa",
+			"name": "Amangal",
+			"slug": "महबूबनगर-Amangal",
+			"eng_name": "Amangal"
+		},
+		"village": null,
+		"village_obj": {
+			"id": "f8c0e7b5-8d89-483a-94df-19d84a9905fa",
+			"name": "Cherikonda Pattikalwakurthy",
+			"slug": "Amangal-Cherikonda-Pattikalwakurthy",
+			"eng_name": "Cherikonda Pattikalwakurthy"
+		}
+	},
+	"requested_new_phone_number": null,
+	"is_farmer": true,
+	"is_profile_editable": true,
+	"physical_interaction": 1,
+	"connected_calls": 0,
+	"application_installed": false,
+	"crops_query": [],
+	"last_field_visit_date": "02/09/2026",
+	"crops_market_status": [],
+	"request_count": 0,
+	"field_activity_config": {
+		"show_product_interest": true,
+		"show_sampling": true,
+		"show_purchase": true
+	},
+	"membership_info": [
+		{
+			"id": "132156f8-0336-49fa-839c-a08de7aceb18",
+			"institution_type": "Test",
+			"type_col": "#2E7D32",
+			"institute": {
+				"id": "84dc531e-0166-41bb-b269-a175a88f7cc4",
+				"name": "Harpreet Singh"
+			},
+			"joining_date": "03/09/2026",
+			"questions": []
+		}
+	],
+	"enabled_profile_widget": [
+		"plot",
+		"field-activity",
+		"all-sheds"
+	],
+	"form_data": [
+		{
+			"key": "Registration Code",
+			"value": "hdbr"
+		},
+		{
+			"key": "Farmer Address",
+			"value": "Cherikonda Pattikalwakurthy, Amangal, Ranga Reddy, Telangana"
+		},
+		{
+			"key": "Cultivation Area (in acres)",
+			"value": "25.0"
+		},
+		{
+			"key": "% area under irrigation",
+			"value": null
+		},
+		{
+			"key": "Kharif Crops",
+			"value": ""
+		},
+		{
+			"key": "Rabi Crops",
+			"value": ""
+		},
+		{
+			"key": "Zaid Crops",
+			"value": ""
+		},
+		{
+			"key": "Crops",
+			"value": "Ajola"
+		},
+		{
+			"key": "Date of Birth",
+			"value": null
+		},
+		{
+			"key": "Gender",
+			"value": null
+		},
+		{
+			"key": "Father's / Husband's Name",
+			"value": null
+		},
+		{
+			"key": "Education Level",
+			"value": null
+		},
+		{
+			"key": "Income source of farmer other than agriculture",
+			"value": null
+		},
+		{
+			"key": "Tractor",
+			"value": null
+		},
+		{
+			"key": "Distillation Unit",
+			"value": null
+		},
+		{
+			"key": "Smartphone",
+			"value": null
+		},
+		{
+			"key": "Tubewell",
+			"value": null
+		},
+		{
+			"key": "Source of Energy for Tubewell",
+			"value": null
+		},
+		{
+			"key": "Registered with Client",
+			"value": null
+		},
+		{
+			"key": "Aadhar Number",
+			"value": null
+		},
+		{
+			"key": "Any Other Info",
+			"value": null
+		},
+		{
+			"key": "Section 2 Question",
+			"value": null
+		},
+		{
+			"key": "WhatsApp_No.",
+			"value": null
+		},
+		{
+			"key": "Social Media Link",
+			"value": "https://youtube.com/shorts/H_D2wWQdyQw?si=JvxSk1HQdu5Es_Wn"
+		}
+	]
+}
