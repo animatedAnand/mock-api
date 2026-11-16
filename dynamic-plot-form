@@ -1,4 +1,6 @@
 {
+  "area_unit": "Acre",
+  "conversion_factor": 1,
   "sections": [
     {
       "id": "a70b007c-eeb3-442a-93f2-95848b92d63c",
@@ -98,5 +100,6 @@
         }
       ]
     }
-  ]
+  ],
+  "add_media": true
 }
