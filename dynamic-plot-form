@@ -1,6 +1,4 @@
 {
-  "area_unit": "Acre",
-  "conversion_factor": 1.00,
   "sections": [
     {
       "id": "a70b007c-eeb3-442a-93f2-95848b92d63c",
@@ -17,7 +15,8 @@
           "question_option_value": [],
           "question_type": "crop",
           "add_new_option_text": false,
-          "constraints": {}
+          "constraints": {},
+          "field_desc": null
         },
         {
           "id": "29705120-a6c8-4c18-baba-c4e59617ea58",
@@ -29,7 +28,8 @@
           "question_option_value": [],
           "question_type": "crop_variety",
           "add_new_option_text": false,
-          "constraints": {}
+          "constraints": {},
+          "field_desc": null
         },
         {
           "id": "d1aefb66-5f65-4f7a-93f9-7c46bac41695",
@@ -41,7 +41,8 @@
           "question_option_value": [],
           "question_type": "cultivation_activity",
           "add_new_option_text": false,
-          "constraints": {}
+          "constraints": {},
+          "field_desc": null
         },
         {
           "id": "bed16741-5776-4a5c-8048-e63049cdfb73",
@@ -53,7 +54,8 @@
           "question_option_value": [],
           "question_type": "season_start_date",
           "add_new_option_text": false,
-          "constraints": {}
+          "constraints": {},
+          "field_desc": null
         },
         {
           "id": "78116167-406c-4717-977a-020592944d44",
@@ -65,10 +67,36 @@
           "question_option_value": [],
           "question_type": "nectr_program_tag",
           "add_new_option_text": false,
-          "constraints": {}
+          "constraints": {},
+          "field_desc": null
+        },
+        {
+          "id": "29c616af-a342-4b94-899c-f74c1fef4558",
+          "label": "Plant to Plant Distance (ft)",
+          "field_type": "decimal",
+          "required": true,
+          "order": 5,
+          "question_option_source": null,
+          "question_option_value": [],
+          "question_type": "custom",
+          "add_new_option_text": false,
+          "constraints": {},
+          "field_desc": ""
+        },
+        {
+          "id": "1b4324cc-86d8-4c68-8f1d-b5fbb011fa1f",
+          "label": "Row to row distance (ft)",
+          "field_type": "decimal",
+          "required": true,
+          "order": 6,
+          "question_option_source": null,
+          "question_option_value": [],
+          "question_type": "custom",
+          "add_new_option_text": false,
+          "constraints": {},
+          "field_desc": ""
         }
       ]
     }
-  ],
-  "add_media": true
+  ]
 }
